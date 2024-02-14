@@ -1,0 +1,12 @@
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.AssemblyReference.cache
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll.config
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CopyComplete
