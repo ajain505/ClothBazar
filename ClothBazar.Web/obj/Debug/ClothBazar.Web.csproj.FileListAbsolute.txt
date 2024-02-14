@@ -106,3 +106,6 @@ C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\obj\Debug\ClothB
 C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.csproj.CopyComplete
 C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.dll
 C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\obj\Debug\ClothBazar.Web.pdb
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\bin\ClothBazar.Entities.dll
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\bin\ClothBazar.Entities.pdb
+C:\Users\Astha Kothari\Desktop\dotnet\ClothBazar\ClothBazar.Web\bin\ClothBazar.Entities.dll.config
